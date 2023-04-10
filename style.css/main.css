@@ -1,0 +1,27 @@
+.blog {
+    background-color: aqua;
+    border: 20px solid yellow;
+    border-radius: 20px;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 35px;
+    padding: 20px;
+
+}
+
+.blog-title {
+    color: orangered;
+    text-align: center;
+}
+
+.text {
+    text-align: left;
+}
+
+.author {
+    color: blueviolet;
+}
+
+#author-name {
+    color: brown;
+}
